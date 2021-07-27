@@ -1,100 +1,56 @@
-Johnny Coder
+Ryan McDonough
 ============
 
-----
+-------------------     ----------------------------
+480 Whidbey Way                       ryan@r2n.io
+Morro Bay, CA 93442                   +1 (805) 835-6315
+-------------------     ----------------------------
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
 
-----
+[linkedin.com/in/rjmcdonough](https://www.linkedin.com/in/rjmcdonough)
 
-Education
----------
-
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
-
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
+[github.com/rhinomcd](https://github.com/rhinomcd)
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Lead Engineer, TransUnion Consumer Interactive** -- May 2021 - Present
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+*System Team* - The System team at TU operates as a highly specialized devops
+ team with an emphasis on automated testing and enhancing developer experience.
 
-* First item
+Continuous Integration:
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+- Administrate Jenkins cluster using a custom swarm-agent architecture
+- Enhance existing Jenkins pipelines(groovy shared libraries) to integrate with static analysis tools such as SonarQube
+- Configure and enhance tooling for NodeJS Jenkins builds (unit tests, linting, internal publishing)
 
-**That Other Job You Had**
+Kubernetes:
 
-Also with a short description.
+- Migrate docker-compose based applications to Helm charts
+- Design and implement a helm chart "build" system that hooked into existing build infrastructure (Apache Maven)
+- Refactor application architecture to utilize many slim docker images (Sidecar pattern)
 
-Technical Experience
+Automated Testing Specialist:
+
+- Train engineers on writing UI Tests using SerenityBDD (Selenium + CucumberBDD + more)
+- Introduce Unit Testing to numerous (30+ unique codebases) legacy Java EE applications
+- Apply advanced mocking techniques to test code that wasn't designed to be tested
+
+Misc Projects and responsibilities:
+
+- Migrate Java EE JAX-WS SOAP APIs to JAX-RS Restful APIs
+
+
+**Senior Engineer, TransUnion Consumer Interactive** -- February 2018 - May 2021
+
+**Associate QA Engineer, TransUnion Consumer Interactive** -- September 2016 - February 2018
+
+**Associate QA Analyst, Hathway** -- 2015 - 2016
+
+**QA Intern, Hathway** -- 2014 - 2015
+
+Skills
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
-
-----
-
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+Java, Python, Bash, Typescript, Javascript, Git, Subversion, Docker, Kubernetes, Helm, Kustomize, Vim, JIRA, Confluence, Bitbucket, Mockito, JUnit, CucumberBDD
